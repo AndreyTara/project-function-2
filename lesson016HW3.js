@@ -13,6 +13,7 @@
 // }
 
 // const myIterable = { from: 'aaa', to: 4 };
+
 // for (let item of myIterable) { // Ошибка!
 //  console.log(item);
 // }
