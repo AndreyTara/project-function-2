@@ -63,4 +63,3 @@ function selectFromInterval(inputInterval, first, second) {
     console.log(throwNewError);
   }
 }
-selectFromInterval([-2, -15, 0, 4], -13, -5)
